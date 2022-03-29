@@ -1,5 +1,4 @@
-### Ola! Eu sou o Marcus!
-**
+## Ola! Eu sou o Marcus!
 <div align="center">
   <a href="https://github.com/MarcusViniciusC">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcusViniciusC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
